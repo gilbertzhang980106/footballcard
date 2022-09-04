@@ -1898,7 +1898,7 @@
   {
     "__type__": "cc.Node",
     "_name": "card_list",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 1
     },
@@ -1956,7 +1956,7 @@
   {
     "__type__": "cc.Node",
     "_name": "content",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 126
     },
@@ -2022,7 +2022,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 127
     },
@@ -2156,7 +2156,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 127
     },
@@ -2290,7 +2290,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 127
     },
@@ -2424,7 +2424,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 127
     },
@@ -2558,7 +2558,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 127
     },
@@ -2692,7 +2692,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 127
     },
@@ -2901,7 +2901,7 @@
   {
     "__type__": "cc.Node",
     "_name": "content_no_card",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 126
     },
@@ -2956,7 +2956,7 @@
   {
     "__type__": "cc.Node",
     "_name": "img",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 193
     },
@@ -3086,7 +3086,7 @@
   {
     "__type__": "cc.Node",
     "_name": "tip",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 193
     },
